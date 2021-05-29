@@ -2484,8 +2484,8 @@ async def _(event):
             "@aaaaadddddmmmmmiiiiinnnnn",
             "@aaaaddddmmmmiiiinnnn",
             "@aaadddmmmiiinnn",
-            "@aaddmmiinn",
-            "@admin"]
+            "@admin",
+            "😎SKYZO GANTENG😎"]
 
         for i in animation_ttl:
 
